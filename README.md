@@ -1,12 +1,4 @@
-# Sequence Order-Robust Mamba for Time Series Forecasting
-
-### author1, author2, author3, author4
-
-<br>
-
-This repository contains the official implementation for the paper [Sequence Order-Robust Mamba for Time Series Forecasting]([link here]) 
-
-<br>
+# Order-Robust Mamba for Time Series Forecasting
 
 ## 1.Preparation
 ### 1-1.Installation

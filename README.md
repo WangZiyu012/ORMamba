@@ -5,13 +5,13 @@
 pip install -r requirements.txt
 ```
 
-### 2.Datasets
+## 2.Datasets
 
 [here](https://github.com/wzhwzhwzh0921/S-D-Mamba/releases/download/datasets/S-Mamba_datasets.zip).
 
 <br>
 
-## 2.Train
+## 3.Training
 Supervised (SL)
 ```bash
 bash /home/seunghan9613/SOR-Mamba/scripts/ETT/SL/ETTh1.sh
